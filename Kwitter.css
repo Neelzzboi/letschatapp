@@ -1,12 +1,21 @@
-html, body
+
+
+#message_logo
 {
-  height: 100%;
-  margin: 0;
+	width: 90px;
+	height: 90px;
 }
 
+#bird_logo
+{
+	width: 70px; 
+	height:70px;
+}
 body
 {
 background-image: linear-gradient(to right top, hotpink, lightpink, rgb(183, 79, 183), #ad3b9f, #7b1d56);
+height: 100%;
+  margin: 0;
 }
 
 .header
